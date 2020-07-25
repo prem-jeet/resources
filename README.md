@@ -2,9 +2,9 @@
 🤖 🎨 🎸 A curated list of free learning material
 
 # Content :
-  - [Maths](#Maths)
-  - [Sql](#Sql)
-  - [Machine Learning](#Machine-Learning)
+  - [Maths](#maths)
+  - [Sql](#sql)
+  - [Machine Learning](#machine-learning)
   
 # Maths :
 
