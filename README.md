@@ -23,6 +23,6 @@
 # Macline Learning :
 
 # Articles :
-  - [Download]()/ [View]() ==> 6 Panda Tricks you should know to speed up your data analysis
+  - [Download](https://raw.githubusercontent.com/prem-jeet/resources/gh-pages/assets/articles/6%20Pandas%20tricks%20you%20should%20know%20to%20speed%20up%20your%20data%20analysis-converted.pdf)/ [View](https://github.com/prem-jeet/resources/blob/gh-pages/assets/articles/6%20Pandas%20tricks%20you%20should%20know%20to%20speed%20up%20your%20data%20analysis-converted.pdf) ==> 6 Panda Tricks you should know to speed up your data analysis
   - [Download]()/ [View]() ==> Data Science Questions
   - [Download]()/ [View]() ==> Learned Data Viz in a year, and you can too
