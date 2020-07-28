@@ -2,10 +2,10 @@
 🤖 🎨 🎸 A curated list of free learning material
 
 # Content :
-  - [Maths](# maths)
-  - [Sql](# sql)
-  - [Machine Learning](# machine-learning)
-  - [Useful Articles](# articles)
+  - [Maths](#maths)
+  - [Sql](#sql)
+  - [Machine Learning](#machine-learning)
+  - [Useful Articles](#articles)
   
 # Maths :
 
@@ -21,6 +21,47 @@
  - [Sql Wiki](https://sqlzoo.net/) ==> A wikipedia but for SQL
 
 # Macline Learning :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Articles :
   - [Download](https://raw.githubusercontent.com/prem-jeet/resources/gh-pages/assets/articles/6%20Pandas%20tricks%20you%20should%20know%20to%20speed%20up%20your%20data%20analysis-converted.pdf)/ [View](https://github.com/prem-jeet/resources/blob/gh-pages/assets/articles/6%20Pandas%20tricks%20you%20should%20know%20to%20speed%20up%20your%20data%20analysis-converted.pdf) ==> 6 Panda Tricks you should know to speed up your data analysis -by B. Chen
