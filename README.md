@@ -9,6 +9,8 @@
 
 -------
 # Maths
+  - #### Permutation and Combination
+    - [Combinations involving Identical Objects](https://doubleroot.in/lessons/permutations-combinations/combinations-identical-objects/) ==> Like " selecting 3 balls from a lot of 4 red, 5 green and 6 different colored balls ". 
 
 -----
 # Sql
