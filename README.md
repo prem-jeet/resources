@@ -33,7 +33,7 @@
  - [Sql Wiki](https://sqlzoo.net/) ==> A wikipedia but for SQL
 
 ------------------
-# Macline Learning
+# Machine Learning
 
 
 ----------
