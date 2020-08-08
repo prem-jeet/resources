@@ -3,7 +3,7 @@
 
 # Content :
   - [Maths](#maths)
-  - [HTML & CSS](#html-&-css)
+  - [HTML & CSS](#html-css)
   - [Sql](#sql)
   - [Machine Learning](#machine-learning)
   - [Useful Articles](#articles)
@@ -15,7 +15,7 @@
     - [Combinations involving Identical Objects](https://doubleroot.in/lessons/permutations-combinations/combinations-identical-objects/) ==> Like " selecting 3 balls from a lot of 4 red, 5 green and 6 different colored balls". 
 
 -----
-# HTML & CSS
+# HTML CSS
   
   - #### CSS
     - [Draw icons with single div](https://cssicon.space/#/) ==> Learn more about the power of css and a single div 
