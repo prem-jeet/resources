@@ -18,7 +18,9 @@
 # HTML CSS
   
   - #### CSS
-    - [Draw icons with single div](https://cssicon.space/#/) ==> Learn more about the power of css and a single div 
+    
+    - [Draw icons with single div](https://cssicon.space/#/) ==> Learn to draw icons using only one \<div\> element
+    - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents#gist) ==> Meaning and use of the "%" unit
 
 
 -----
@@ -46,3 +48,5 @@
   
   
   - [Download](https://raw.githubusercontent.com/prem-jeet/resources/gh-pages/assets/articles/data%20science%20questions.pdf)/ [View](https://github.com/prem-jeet/resources/blob/gh-pages/assets/articles/data%20science%20questions.pdf) ==> Learned Data Viz in a year, and you can too -by { Megan Dribble }
+
+  - [Know What Employers are Expecting for a Data Scientist Role](https://www.kdnuggets.com/2020/08/employers-expecting-data-scientist-role-2020.html)
