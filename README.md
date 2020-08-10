@@ -50,3 +50,5 @@
   - [Download](https://raw.githubusercontent.com/prem-jeet/resources/gh-pages/assets/articles/data%20science%20questions.pdf)/ [View](https://github.com/prem-jeet/resources/blob/gh-pages/assets/articles/data%20science%20questions.pdf) ==> Learned Data Viz in a year, and you can too -by { Megan Dribble }
 
   - [Know What Employers are Expecting for a Data Scientist Role](https://www.kdnuggets.com/2020/08/employers-expecting-data-scientist-role-2020.html)
+  
+  - [160+ Data Science Interview Questions - By Alexey Grigorev](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
