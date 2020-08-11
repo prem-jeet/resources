@@ -3,7 +3,7 @@
 
 # Content :
   - [Maths](#maths)
-  - [HTML & CSS](#html-css)
+  - [HTML & CSS](#html-css-frontend)
   - [Sql](#sql)
   - [Machine Learning](#machine-learning)
   - [Useful Articles](#articles)
@@ -15,13 +15,15 @@
     - [Combinations involving Identical Objects](https://doubleroot.in/lessons/permutations-combinations/combinations-identical-objects/) ==> Like " selecting 3 balls from a lot of 4 red, 5 green and 6 different colored balls". 
 
 -----
-# HTML CSS
+# HTML CSS FrontEnd
   
   - #### CSS
     
-    - [Draw icons with single div](https://cssicon.space/#/) ==> Learn to draw icons using only one \<div\> element
-    - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents#gist) ==> Meaning and use of the "%" unit
-
+    - [Draw icons with single div](https://cssicon.space/#/) ==> Learn to draw icons using only one \<div\> element.
+    
+    - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents#gist) ==> Meaning and use of the "%" unit.
+    
+    - [Learn jQuary](https://css-tricks.com/lodge/learn-jquery/) ==> There's something for everybody here, from beginners to master.
 
 -----
 # Sql
