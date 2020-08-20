@@ -40,6 +40,8 @@
 ------------------
 # Machine Learning
 
+  - [Encoding Categorical Data](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)
+
 
 ----------
 # Articles
