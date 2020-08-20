@@ -41,6 +41,8 @@
 # Machine Learning
 
   - [Encoding Categorical Data](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)
+  
+  - [Starting Machine Learning](https://www.kdnuggets.com/2020/08/start-learning-data-science-again.html)
 
 
 ----------
