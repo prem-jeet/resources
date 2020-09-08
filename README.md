@@ -8,7 +8,9 @@
   - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
   - [Useful Articles](#articles)
+  - [Free Books](#free-books)
   - [Miscellaneous](#miscellaneous)
+  
 
 -------
 # Maths
@@ -67,6 +69,13 @@
   
   - [160+ Data Science Interview Questions - By Alexey Grigorev](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 
+---------
+
+# Free Books
+
+  - [Some free O’Reilly Media books by Allen B. Downey](https://greenteapress.com/wp/)
+  
+  
 ---------
 # Miscellaneous
   - [Selenium Documantation](https://selenium-python.readthedocs.io/installation.html) ==> Selenium is an easy to use popular library for webautomation
