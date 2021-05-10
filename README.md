@@ -4,7 +4,7 @@
 # Content :
   - [Maths](#maths)
   - [HTML & CSS](#html-css-frontend)
-  - [Sql](#sql)
+  - [Database](#database)
   - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
   - [Useful Articles](#articles)
@@ -20,7 +20,11 @@
 
 -----
 # HTML CSS FrontEnd
-  
+
+  - #### HTML
+
+    - [Pug syntax](https://www.sitepoint.com/a-beginners-guide-to-pug/) ===> Syntax for pux, a javascript templating library, to wtite html
+    
   - #### CSS
     
     - [Draw icons with single div](https://cssicon.space/#/) ==> Learn to draw icons using only one \<div\> element.
@@ -30,7 +34,7 @@
     - [Learn jQuary](https://css-tricks.com/lodge/learn-jquery/) ==> There's something for everybody here, from beginners to master.
 
 -----
-# Sql
+# Database
  
  - [Learn by Doing (recommended)](https://mode.com/sql-tutorial/introduction-to-sql/) ==> Good for beginners, learn by doing stuff, with real world example in the end
  
